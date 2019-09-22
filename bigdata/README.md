@@ -1,7 +1,3 @@
----
-description: 大数据相关笔记
----
-
 # BigData
 
 ## 什么是大数据
