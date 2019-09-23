@@ -119,11 +119,6 @@
 
 Google 在大数据方面的三大论文 （谷歌三宝）
 
-{% file src="../.gitbook/assets/googlemapreduce-zhong-wen-ban-1.0.pdf" %}
-
-{% file src="../.gitbook/assets/googlefilesystem-zhong-wen-ban-1.0.pdf" %}
-
-{% file src="../.gitbook/assets/googlebigtable-zhong-wen-ban-1.0.pdf" %}
 
 [三宝的介绍](https://www.cnblogs.com/javhu/archive/2013/03/25/cyue_hadoop_google.html)
 
