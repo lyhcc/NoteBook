@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [简介](README.md)
 * [BigData](bigdata/README.md)
   * [Hadoop](bigdata/hadoop/README.md)
     * [Hadoop 之HDFS](bigdata/hadoop/hadoop-hdfs.md)
